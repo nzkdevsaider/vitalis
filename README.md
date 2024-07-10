@@ -1,1 +1,3 @@
-note because this is in a monorepo had to remove react, react-dom, and react-native-web deps and change metro.config.js a bit.
+# Proyecto Vitalis
+
+Este es un prototipo de una investigación cientifica realizada para **Jornada de Iniciación Cientifica (JIC)** de la **Universidad Tecnológica de Panamá**.
